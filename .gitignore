@@ -275,3 +275,5 @@ cython_debug/
 /.ipynb_checkpoints
 
 /cardgame/data/raw/*.json
+
+/cardgame/data/raw/
