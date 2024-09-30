@@ -65,6 +65,20 @@ tbd...
 
 - adapt path for all exports
 - calculate percentage of building_agegroup_byAdminarea
+- add overpass query to README
+- double check Cannabis_freeZones in QGIS
+
+## Data
+
+### Cannabis
+
+```javascript
+
+overpass query
+
+
+
+```
 
 ## Contributing
 
