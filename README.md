@@ -19,9 +19,9 @@
 
 ```json
 {
-	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"extends": ["github>technologiestiftung/renovate-config"],
-	"baseBranches": ["staging"]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>technologiestiftung/renovate-config"],
+  "baseBranches": ["staging"]
 }
 ```
 
@@ -60,6 +60,10 @@ tbd...
 ## Tests
 
 tbd...
+
+## ToDos
+
+- calculate percentage of building_agegroup_byAdminarea
 
 ## Contributing
 
