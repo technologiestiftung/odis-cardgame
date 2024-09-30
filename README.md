@@ -68,6 +68,7 @@ tbd...
 - add overpass query to README
 - double check Cannabis_freeZones in QGIS
 - add source for street name
+- IHK only remove relevant NA
 
 ## Data
 
