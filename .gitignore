@@ -277,3 +277,5 @@ cython_debug/
 /cardgame/data/raw/*.json
 
 /cardgame/data/raw/
+
+/cardgame/data/svg/
