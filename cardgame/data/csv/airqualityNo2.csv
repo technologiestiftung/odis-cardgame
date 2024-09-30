@@ -1,0 +1,59 @@
+pgr_id,pgr_name,Mean_no2,Mean_pm25
+0830,Gropiusstadt,14.61,11.54
+0370,Südlicher Prenzlauer Berg,18.48,11.45
+0250,Friedrichshain Ost,16.57,11.41
+0710,Schöneberg Nord,17.02,11.41
+0340,Südliches Pankow,15.24,11.4
+0210,Kreuzberg Nord,17.69,11.37
+0130,Gesundbrunnen,16.96,11.36
+0360,Nördlicher Prenzlauer Berg,17.32,11.36
+0240,Friedrichshain West,18.98,11.35
+0450,Wilmersdorf Zentrum,18.35,11.27
+0230,Kreuzberg Ost,16.2,11.27
+1140,Lichtenberg Mitte,14.99,11.26
+1120,Hohenschönhausen Süd,14.08,11.26
+0350,Südliches Weißensee,14.94,11.23
+0610,Steglitz,16.75,11.22
+1130,Lichtenberg Nord,16.09,11.16
+0720,Schöneberg Süd,17.52,11.14
+0220,Kreuzberg Süd,17.45,11.13
+0110,Zentrum,18.56,11.13
+1010,Marzahn,14.3,11.13
+0840,Buckow Nord/Rudow,13.92,11.1
+0810,Neukölln,18.37,11.08
+0730,Friedenau,17.54,11.08
+1020,Hellersdorf,13.42,11.07
+1210,Reinickendorf Ost,16.48,11.06
+1030,Biesdorf,13.33,11.05
+0120,Moabit,18.63,11.02
+1040,Kaulsdorf/Mahlsdorf,12.31,11.0
+0140,Wedding,16.68,10.99
+0750,Mariendorf,14.3,10.98
+0430,Charlottenburg Zentrum,17.86,10.96
+1260,Märkisches Viertel,13.96,10.96
+1110,Hohenschönhausen Nord,12.12,10.85
+0820,Britz/Buckow,15.17,10.84
+0910,Treptow-Köpenick 1,15.83,10.81
+1150,Lichtenberg Süd,12.92,10.8
+0330,Nördliches Weißensee,12.57,10.77
+0620,Lankwitz/Lichterfelde Ost,13.51,10.75
+0740,Tempelhof,17.81,10.71
+0760,Marienfelde / Lichtenrade,13.23,10.71
+1250,Wittenau/Borsigwalde,13.11,10.66
+0410,Charlottenburg Nord,16.5,10.59
+0920,Treptow-Köpenick 2,14.57,10.57
+0630,Zehlendorf Süd/Lichterfelde West,13.35,10.52
+0440,Wilmersdorf Süd,14.34,10.45
+0320,Nördliches Pankow,11.37,10.45
+0520,Wilhelmstadt / Staaken,12.32,10.44
+1220,Tegel,13.73,10.43
+0530,Haselhorst / Siemensstadt,15.13,10.33
+0930,Treptow-Köpenick 3,11.39,10.31
+0510,Spandau Mitte / Nord,11.99,10.25
+1240,Grüner Norden,11.19,10.18
+0940,Treptow-Köpenick 4,10.25,9.99
+0310,Buch,11.37,9.95
+0950,Treptow-Köpenick 5,10.24,9.87
+0420,Charlottenburg West,12.21,9.8
+0640,Zehlendorf Nord/Wannsee,10.88,9.62
+0540,Gatow / Kladow,10.11,9.61
