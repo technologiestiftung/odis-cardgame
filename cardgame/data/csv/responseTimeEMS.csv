@@ -1,0 +1,543 @@
+pgr_id,pgr_name,response_time_ems_critical_mean,response_time_ems_critical_std,response_time_fire_time_to_first_pump_mean,response_time_fire_time_to_first_pump_std
+0930,Treptow-Köpenick 3,17.36,4.71,13.66,4.03
+0440,Wilmersdorf Süd,15.04,6.11,,
+0940,Treptow-Köpenick 4,14.91,4.44,14.53,5.11
+0930,Treptow-Köpenick 3,14.69,4.0,11.23,1.51
+0330,Nördliches Weißensee,14.57,,11.02,
+1040,Kaulsdorf/Mahlsdorf,13.99,3.68,11.97,1.57
+0930,Treptow-Köpenick 3,13.97,3.45,11.76,1.71
+1040,Kaulsdorf/Mahlsdorf,13.81,3.37,12.52,0.65
+1240,Grüner Norden,13.62,3.98,16.69,1.24
+0520,Wilhelmstadt / Staaken,13.55,3.81,12.98,2.14
+1240,Grüner Norden,13.43,3.85,13.05,1.68
+0940,Treptow-Köpenick 4,13.23,2.81,,
+0520,Wilhelmstadt / Staaken,13.22,3.49,12.06,1.49
+1040,Kaulsdorf/Mahlsdorf,13.19,3.03,9.99,3.0
+0930,Treptow-Köpenick 3,13.03,3.06,11.7,2.07
+0520,Wilhelmstadt / Staaken,12.95,3.34,12.68,
+0630,Zehlendorf Süd/Lichterfelde West,12.9,3.36,14.3,2.46
+1220,Tegel,12.88,3.79,7.85,5.7
+1020,Hellersdorf,12.85,3.59,17.11,7.8
+0520,Wilhelmstadt / Staaken,12.82,3.14,14.09,1.51
+0620,Lankwitz/Lichterfelde Ost,12.82,,,
+0820,Britz/Buckow,12.78,3.94,13.34,0.87
+1020,Hellersdorf,12.69,3.1,11.92,2.52
+0510,Spandau Mitte / Nord,12.68,3.36,12.15,1.29
+1020,Hellersdorf,12.65,3.57,10.68,2.42
+0760,Marienfelde / Lichtenrade,12.64,4.1,12.35,2.57
+1020,Hellersdorf,12.61,3.93,12.31,3.07
+0420,Charlottenburg West,12.57,4.15,13.3,
+0760,Marienfelde / Lichtenrade,12.56,4.08,8.58,
+0640,Zehlendorf Nord/Wannsee,12.51,4.23,13.79,4.58
+0310,Buch,12.5,4.13,13.32,2.46
+0620,Lankwitz/Lichterfelde Ost,12.5,3.64,12.67,5.08
+0920,Treptow-Köpenick 2,12.48,3.53,11.5,2.34
+1040,Kaulsdorf/Mahlsdorf,12.46,3.57,13.33,3.32
+0320,Nördliches Pankow,12.45,4.39,10.5,1.39
+0620,Lankwitz/Lichterfelde Ost,12.44,3.58,13.52,3.8
+0760,Marienfelde / Lichtenrade,12.44,4.57,11.09,1.89
+1240,Grüner Norden,12.43,3.1,17.0,4.27
+0840,Buckow Nord/Rudow,12.42,3.98,10.32,1.03
+0320,Nördliches Pankow,12.41,3.6,9.99,1.82
+0320,Nördliches Pankow,12.36,3.42,11.62,3.82
+1240,Grüner Norden,12.35,4.09,12.34,2.55
+0760,Marienfelde / Lichtenrade,12.35,4.26,12.29,3.6
+0340,Südliches Pankow,12.32,3.34,10.89,1.28
+1260,Märkisches Viertel,12.31,3.81,12.48,4.21
+0920,Treptow-Köpenick 2,12.29,3.58,,
+0910,Treptow-Köpenick 1,12.25,3.02,11.63,2.65
+1020,Hellersdorf,12.25,3.13,10.67,2.6
+1030,Biesdorf,12.24,3.16,11.82,3.39
+1040,Kaulsdorf/Mahlsdorf,12.24,3.01,10.23,1.7
+1260,Märkisches Viertel,12.2,3.49,13.07,4.54
+0820,Britz/Buckow,12.2,3.37,12.04,2.23
+0820,Britz/Buckow,12.18,3.33,12.03,2.49
+0940,Treptow-Köpenick 4,12.18,3.61,10.67,1.78
+0640,Zehlendorf Nord/Wannsee,12.14,3.56,13.49,2.31
+0920,Treptow-Köpenick 2,12.14,3.33,11.61,2.25
+0520,Wilhelmstadt / Staaken,12.13,3.87,12.35,1.79
+1250,Wittenau/Borsigwalde,12.13,3.4,11.31,1.24
+1010,Marzahn,12.11,3.45,13.01,4.18
+0810,Neukölln,12.1,3.9,10.93,2.72
+1110,Hohenschönhausen Nord,12.06,3.26,12.54,2.79
+1110,Hohenschönhausen Nord,12.06,4.37,14.71,3.27
+1020,Hellersdorf,12.06,3.23,11.46,2.24
+0910,Treptow-Köpenick 1,12.05,3.0,11.03,1.3
+0620,Lankwitz/Lichterfelde Ost,12.05,3.27,13.92,
+0760,Marienfelde / Lichtenrade,12.04,4.35,12.4,3.83
+1140,Lichtenberg Mitte,12.01,3.7,11.26,3.24
+0420,Charlottenburg West,12.0,3.28,9.99,1.13
+1010,Marzahn,11.98,3.2,12.06,2.24
+0440,Wilmersdorf Süd,11.98,2.99,12.51,1.35
+1010,Marzahn,11.96,3.14,13.03,2.19
+0420,Charlottenburg West,11.96,3.01,10.86,1.57
+0930,Treptow-Köpenick 3,11.92,3.91,13.5,2.69
+0640,Zehlendorf Nord/Wannsee,11.92,3.48,12.12,2.32
+0760,Marienfelde / Lichtenrade,11.92,3.5,12.7,3.32
+0520,Wilhelmstadt / Staaken,11.91,3.09,10.19,1.05
+0950,Treptow-Köpenick 5,11.88,3.2,12.72,1.44
+0820,Britz/Buckow,11.88,3.46,12.75,3.68
+1010,Marzahn,11.88,3.73,14.68,4.13
+1150,Lichtenberg Süd,11.87,4.06,11.16,2.09
+0630,Zehlendorf Süd/Lichterfelde West,11.84,3.17,11.04,1.39
+1220,Tegel,11.84,4.35,,
+0440,Wilmersdorf Süd,11.82,2.52,14.98,2.56
+0540,Gatow / Kladow,11.82,4.41,,
+1110,Hohenschönhausen Nord,11.82,3.47,11.21,4.44
+0330,Nördliches Weißensee,11.82,3.51,10.99,2.72
+0420,Charlottenburg West,11.8,3.2,9.92,1.3
+0630,Zehlendorf Süd/Lichterfelde West,11.8,3.8,10.42,1.15
+0320,Nördliches Pankow,11.8,3.91,,
+1140,Lichtenberg Mitte,11.8,3.3,12.56,1.08
+0930,Treptow-Köpenick 3,11.8,3.93,11.56,0.7
+0820,Britz/Buckow,11.79,3.79,12.2,2.44
+0750,Mariendorf,11.78,3.52,11.22,1.11
+0760,Marienfelde / Lichtenrade,11.77,3.36,13.07,0.97
+0440,Wilmersdorf Süd,11.77,2.68,10.12,0.51
+0540,Gatow / Kladow,11.73,3.94,13.1,1.49
+0640,Zehlendorf Nord/Wannsee,11.71,3.56,11.38,1.45
+1110,Hohenschönhausen Nord,11.7,4.13,14.4,3.84
+0950,Treptow-Köpenick 5,11.69,4.19,11.38,2.95
+0320,Nördliches Pankow,11.67,3.73,10.63,2.2
+1110,Hohenschönhausen Nord,11.67,3.02,11.78,3.26
+1150,Lichtenberg Süd,11.66,3.63,12.7,4.32
+0840,Buckow Nord/Rudow,11.65,3.49,8.27,2.14
+0760,Marienfelde / Lichtenrade,11.63,3.52,10.77,2.52
+0320,Nördliches Pankow,11.62,3.24,10.71,1.88
+1020,Hellersdorf,11.62,2.97,10.63,1.56
+1260,Märkisches Viertel,11.6,3.83,9.53,3.46
+1110,Hohenschönhausen Nord,11.58,3.76,11.86,4.46
+0520,Wilhelmstadt / Staaken,11.56,3.38,11.08,2.57
+0320,Nördliches Pankow,11.56,3.52,9.13,2.37
+1030,Biesdorf,11.55,2.99,10.02,3.14
+0910,Treptow-Köpenick 1,11.54,3.68,10.16,1.32
+1240,Grüner Norden,11.54,3.88,9.12,9.76
+1020,Hellersdorf,11.53,3.79,10.46,3.13
+0340,Südliches Pankow,11.52,3.33,10.75,1.71
+0410,Charlottenburg Nord,11.52,2.92,10.57,0.77
+0510,Spandau Mitte / Nord,11.51,3.49,13.42,3.11
+0920,Treptow-Köpenick 2,11.5,3.39,10.67,3.02
+0930,Treptow-Köpenick 3,11.5,3.3,12.46,2.07
+0630,Zehlendorf Süd/Lichterfelde West,11.5,3.53,11.4,1.89
+0910,Treptow-Köpenick 1,11.47,2.94,11.23,2.14
+0760,Marienfelde / Lichtenrade,11.47,3.1,13.79,3.58
+1010,Marzahn,11.46,3.73,12.91,2.86
+0760,Marienfelde / Lichtenrade,11.45,3.4,10.72,3.04
+1020,Hellersdorf,11.44,3.98,10.71,2.17
+0950,Treptow-Köpenick 5,11.44,3.23,9.01,1.66
+0640,Zehlendorf Nord/Wannsee,11.43,3.56,10.7,
+0810,Neukölln,11.43,3.19,10.49,3.21
+1040,Kaulsdorf/Mahlsdorf,11.43,4.14,10.64,4.37
+0410,Charlottenburg Nord,11.41,3.21,12.27,5.91
+1140,Lichtenberg Mitte,11.4,2.93,12.26,3.05
+0520,Wilhelmstadt / Staaken,11.38,3.35,10.54,1.85
+0930,Treptow-Köpenick 3,11.38,3.26,9.9,1.77
+1140,Lichtenberg Mitte,11.36,3.13,10.36,2.75
+0640,Zehlendorf Nord/Wannsee,11.34,3.83,11.48,2.45
+1120,Hohenschönhausen Süd,11.34,3.51,11.45,3.79
+0540,Gatow / Kladow,11.34,4.18,15.8,2.16
+0510,Spandau Mitte / Nord,11.32,3.34,16.28,4.67
+1010,Marzahn,11.32,3.27,10.39,2.53
+0920,Treptow-Köpenick 2,11.3,3.95,10.68,3.93
+1020,Hellersdorf,11.3,3.98,9.59,2.73
+0760,Marienfelde / Lichtenrade,11.29,3.58,11.4,3.28
+0820,Britz/Buckow,11.27,3.42,8.52,1.5
+1110,Hohenschönhausen Nord,11.27,3.55,13.25,3.22
+0440,Wilmersdorf Süd,11.27,3.1,11.67,2.22
+1140,Lichtenberg Mitte,11.27,3.02,11.2,2.67
+1010,Marzahn,11.25,2.87,12.17,2.16
+0330,Nördliches Weißensee,11.24,3.86,13.5,7.59
+1010,Marzahn,11.24,3.25,10.53,1.84
+1140,Lichtenberg Mitte,11.23,2.99,11.5,0.57
+0830,Gropiusstadt,11.23,3.92,10.72,1.71
+1010,Marzahn,11.22,3.44,11.36,2.01
+0440,Wilmersdorf Süd,11.21,3.11,10.61,2.03
+0640,Zehlendorf Nord/Wannsee,11.21,2.75,11.09,1.82
+0920,Treptow-Köpenick 2,11.21,3.33,8.98,0.36
+0820,Britz/Buckow,11.2,4.05,8.98,1.76
+0420,Charlottenburg West,11.2,3.54,10.75,1.6
+0810,Neukölln,11.2,3.02,10.52,1.55
+0950,Treptow-Köpenick 5,11.2,3.59,10.98,0.22
+0510,Spandau Mitte / Nord,11.17,3.39,11.1,1.87
+0630,Zehlendorf Süd/Lichterfelde West,11.17,3.14,11.64,2.76
+1150,Lichtenberg Süd,11.16,3.22,13.47,2.62
+1210,Reinickendorf Ost,11.16,2.92,10.4,1.67
+1130,Lichtenberg Nord,11.15,3.28,10.43,2.6
+0530,Haselhorst / Siemensstadt,11.15,2.79,12.7,1.32
+0640,Zehlendorf Nord/Wannsee,11.14,3.91,12.14,2.03
+1150,Lichtenberg Süd,11.13,4.39,10.53,3.17
+1260,Märkisches Viertel,11.13,2.99,11.71,2.06
+0330,Nördliches Weißensee,11.13,3.86,8.5,1.43
+0910,Treptow-Köpenick 1,11.13,3.52,11.47,2.18
+1220,Tegel,11.12,3.34,9.57,1.38
+0420,Charlottenburg West,11.12,5.05,11.9,1.95
+1110,Hohenschönhausen Nord,11.11,3.4,11.67,2.3
+1140,Lichtenberg Mitte,11.11,3.65,8.3,
+0530,Haselhorst / Siemensstadt,11.1,4.75,12.55,1.29
+0340,Südliches Pankow,11.09,3.72,9.99,4.06
+0840,Buckow Nord/Rudow,11.08,3.6,9.44,2.11
+0910,Treptow-Köpenick 1,11.08,3.04,10.57,1.51
+0810,Neukölln,11.08,3.75,7.17,2.44
+0520,Wilhelmstadt / Staaken,11.08,3.15,13.39,4.57
+0340,Südliches Pankow,11.03,4.11,8.11,2.46
+0250,Friedrichshain Ost,11.03,2.48,10.38,2.24
+0910,Treptow-Köpenick 1,11.02,3.68,9.54,1.61
+0540,Gatow / Kladow,11.02,5.71,10.75,
+0930,Treptow-Köpenick 3,11.0,4.35,12.48,1.86
+0940,Treptow-Köpenick 4,11.0,3.88,10.12,
+1010,Marzahn,11.0,3.39,10.82,3.12
+0130,Gesundbrunnen,11.0,3.0,11.68,3.76
+1140,Lichtenberg Mitte,11.0,3.41,11.68,1.55
+0840,Buckow Nord/Rudow,10.97,3.86,11.42,2.5
+0910,Treptow-Köpenick 1,10.97,3.47,10.34,2.49
+0920,Treptow-Köpenick 2,10.96,3.43,9.75,2.57
+0440,Wilmersdorf Süd,10.94,3.32,9.66,0.5
+0510,Spandau Mitte / Nord,10.94,3.54,11.65,1.64
+1110,Hohenschönhausen Nord,10.94,2.86,12.39,2.95
+0360,Nördlicher Prenzlauer Berg,10.94,3.38,10.31,0.97
+0840,Buckow Nord/Rudow,10.93,3.51,10.93,3.57
+0330,Nördliches Weißensee,10.93,3.15,10.89,2.8
+0340,Südliches Pankow,10.93,3.85,12.73,4.09
+0920,Treptow-Köpenick 2,10.92,3.13,10.27,3.18
+0340,Südliches Pankow,10.9,3.59,9.62,0.68
+0350,Südliches Weißensee,10.9,3.51,10.46,1.69
+1140,Lichtenberg Mitte,10.89,3.1,12.35,3.25
+0820,Britz/Buckow,10.89,3.55,9.96,1.14
+0340,Südliches Pankow,10.89,3.28,11.46,1.84
+0340,Südliches Pankow,10.88,3.24,9.68,1.82
+0420,Charlottenburg West,10.88,3.28,11.16,2.87
+0830,Gropiusstadt,10.87,3.62,11.05,3.38
+0620,Lankwitz/Lichterfelde Ost,10.84,3.07,10.32,1.53
+0510,Spandau Mitte / Nord,10.84,3.39,11.37,2.44
+1240,Grüner Norden,10.84,4.71,14.38,4.64
+0520,Wilhelmstadt / Staaken,10.84,3.28,11.68,1.32
+0530,Haselhorst / Siemensstadt,10.84,3.23,12.04,1.35
+0810,Neukölln,10.83,3.51,10.27,2.35
+0350,Südliches Weißensee,10.83,3.41,9.55,1.16
+0630,Zehlendorf Süd/Lichterfelde West,10.82,3.84,11.66,3.42
+0950,Treptow-Köpenick 5,10.82,3.53,10.4,2.05
+1250,Wittenau/Borsigwalde,10.82,3.65,9.62,2.08
+0810,Neukölln,10.81,3.9,10.24,1.65
+0820,Britz/Buckow,10.81,3.15,9.84,2.57
+1010,Marzahn,10.79,3.37,11.64,2.81
+1130,Lichtenberg Nord,10.79,3.44,10.53,2.01
+0830,Gropiusstadt,10.79,3.44,11.37,2.86
+1120,Hohenschönhausen Süd,10.78,3.16,10.39,1.79
+1260,Märkisches Viertel,10.77,3.11,9.79,1.67
+0750,Mariendorf,10.77,2.89,11.97,5.03
+0840,Buckow Nord/Rudow,10.75,3.31,8.73,2.21
+0330,Nördliches Weißensee,10.74,3.8,10.91,1.75
+0940,Treptow-Köpenick 4,10.74,3.11,11.04,0.92
+0810,Neukölln,10.74,3.73,9.57,1.88
+0130,Gesundbrunnen,10.74,3.31,10.13,3.47
+1140,Lichtenberg Mitte,10.74,2.84,10.73,1.73
+0370,Südlicher Prenzlauer Berg,10.73,3.32,11.02,1.89
+0640,Zehlendorf Nord/Wannsee,10.73,3.5,10.81,1.22
+0920,Treptow-Köpenick 2,10.73,2.89,9.6,0.48
+1210,Reinickendorf Ost,10.72,2.93,11.07,2.33
+0760,Marienfelde / Lichtenrade,10.72,3.43,10.83,3.24
+1010,Marzahn,10.72,3.48,13.76,3.44
+0440,Wilmersdorf Süd,10.72,2.72,13.18,2.21
+0360,Nördlicher Prenzlauer Berg,10.72,2.96,10.33,1.59
+0620,Lankwitz/Lichterfelde Ost,10.71,3.17,12.27,3.37
+0340,Südliches Pankow,10.71,3.36,10.22,2.93
+0820,Britz/Buckow,10.71,3.43,10.3,1.57
+1220,Tegel,10.7,3.57,8.6,1.77
+0620,Lankwitz/Lichterfelde Ost,10.7,3.35,10.71,3.16
+0350,Südliches Weißensee,10.7,3.26,10.81,3.64
+1250,Wittenau/Borsigwalde,10.7,3.76,11.36,3.28
+0620,Lankwitz/Lichterfelde Ost,10.7,3.22,11.72,3.46
+0740,Tempelhof,10.68,3.56,10.39,2.39
+0750,Mariendorf,10.67,3.27,10.48,1.56
+0340,Südliches Pankow,10.67,3.05,10.25,1.66
+0510,Spandau Mitte / Nord,10.67,2.94,11.16,1.85
+0420,Charlottenburg West,10.64,3.25,9.87,2.96
+1220,Tegel,10.63,3.47,12.47,5.01
+0630,Zehlendorf Süd/Lichterfelde West,10.63,3.48,10.39,1.87
+0820,Britz/Buckow,10.62,3.47,9.47,2.39
+1120,Hohenschönhausen Süd,10.61,3.24,10.86,4.07
+0950,Treptow-Köpenick 5,10.6,3.65,10.67,1.8
+0810,Neukölln,10.59,3.15,10.42,2.13
+0950,Treptow-Köpenick 5,10.59,3.41,11.34,6.23
+0810,Neukölln,10.59,3.34,10.18,3.52
+1120,Hohenschönhausen Süd,10.57,3.43,10.03,1.81
+0510,Spandau Mitte / Nord,10.57,3.32,11.87,2.08
+0920,Treptow-Köpenick 2,10.57,3.31,11.72,4.83
+1010,Marzahn,10.56,3.27,8.8,2.1
+0760,Marienfelde / Lichtenrade,10.55,2.99,8.93,
+0620,Lankwitz/Lichterfelde Ost,10.55,3.62,10.54,1.98
+0810,Neukölln,10.54,3.21,10.49,2.25
+0330,Nördliches Weißensee,10.54,3.84,11.36,2.66
+0360,Nördlicher Prenzlauer Berg,10.53,2.81,10.81,2.95
+0220,Kreuzberg Süd,10.53,2.9,11.53,2.16
+1120,Hohenschönhausen Süd,10.53,3.75,11.12,3.43
+0340,Südliches Pankow,10.5,3.81,10.68,4.19
+1240,Grüner Norden,10.5,3.66,9.21,0.56
+0360,Nördlicher Prenzlauer Berg,10.5,3.41,8.5,2.0
+1210,Reinickendorf Ost,10.5,3.42,12.2,5.12
+0630,Zehlendorf Süd/Lichterfelde West,10.49,2.84,10.07,3.24
+1030,Biesdorf,10.49,3.29,10.81,2.64
+0630,Zehlendorf Süd/Lichterfelde West,10.49,3.26,9.53,1.79
+1130,Lichtenberg Nord,10.48,3.16,11.12,2.09
+0810,Neukölln,10.48,3.29,9.31,2.17
+1250,Wittenau/Borsigwalde,10.48,3.57,10.0,2.23
+0620,Lankwitz/Lichterfelde Ost,10.47,3.03,11.16,3.12
+1020,Hellersdorf,10.47,3.76,8.8,1.45
+1220,Tegel,10.46,2.88,10.35,1.5
+0610,Steglitz,10.46,3.15,8.58,1.34
+0520,Wilhelmstadt / Staaken,10.46,3.19,12.93,7.06
+1120,Hohenschönhausen Süd,10.46,3.35,10.4,1.91
+1250,Wittenau/Borsigwalde,10.46,3.75,11.28,5.13
+0840,Buckow Nord/Rudow,10.44,3.82,8.48,1.31
+0510,Spandau Mitte / Nord,10.44,3.14,12.15,4.52
+1250,Wittenau/Borsigwalde,10.43,3.79,10.69,2.51
+0610,Steglitz,10.41,3.48,9.3,1.0
+0620,Lankwitz/Lichterfelde Ost,10.4,3.28,13.71,4.78
+1210,Reinickendorf Ost,10.39,3.12,9.48,1.43
+0530,Haselhorst / Siemensstadt,10.38,3.61,13.65,5.6
+0140,Wedding,10.38,3.45,9.47,1.36
+0310,Buch,10.35,3.49,13.5,1.78
+1040,Kaulsdorf/Mahlsdorf,10.35,3.59,8.52,1.12
+0350,Südliches Weißensee,10.34,3.17,9.41,2.17
+0250,Friedrichshain Ost,10.34,3.07,9.81,0.82
+0830,Gropiusstadt,10.33,3.91,10.01,2.32
+1220,Tegel,10.33,3.48,10.17,2.73
+0940,Treptow-Köpenick 4,10.32,3.26,10.1,2.35
+0630,Zehlendorf Süd/Lichterfelde West,10.31,4.42,10.87,4.37
+0440,Wilmersdorf Süd,10.29,2.85,11.11,2.0
+0740,Tempelhof,10.28,3.37,10.22,1.14
+0910,Treptow-Köpenick 1,10.28,3.65,8.86,2.19
+0110,Zentrum,10.27,3.49,10.62,2.27
+0530,Haselhorst / Siemensstadt,10.26,3.24,11.28,3.82
+0610,Steglitz,10.26,3.44,8.96,1.67
+0340,Südliches Pankow,10.25,2.99,9.57,1.57
+0740,Tempelhof,10.24,2.92,9.14,1.35
+0820,Britz/Buckow,10.24,3.5,9.44,2.29
+0810,Neukölln,10.24,3.56,9.57,2.39
+0430,Charlottenburg Zentrum,10.23,3.51,10.89,2.76
+0620,Lankwitz/Lichterfelde Ost,10.22,2.99,10.76,2.26
+0130,Gesundbrunnen,10.21,3.19,10.59,2.16
+0740,Tempelhof,10.2,3.6,9.62,2.66
+0360,Nördlicher Prenzlauer Berg,10.2,2.71,9.82,2.6
+1210,Reinickendorf Ost,10.2,3.37,10.04,1.78
+0440,Wilmersdorf Süd,10.2,3.22,9.54,1.97
+0110,Zentrum,10.19,3.37,10.72,1.53
+1130,Lichtenberg Nord,10.19,3.48,10.65,2.65
+0810,Neukölln,10.18,3.1,9.31,1.48
+1010,Marzahn,10.18,3.15,9.96,2.56
+0510,Spandau Mitte / Nord,10.18,2.93,11.5,2.94
+0130,Gesundbrunnen,10.18,3.23,9.27,1.94
+1010,Marzahn,10.17,3.31,10.08,3.27
+1240,Grüner Norden,10.17,3.85,9.15,3.68
+0110,Zentrum,10.16,3.23,10.38,2.25
+0520,Wilhelmstadt / Staaken,10.15,3.52,10.27,3.77
+0140,Wedding,10.15,3.74,9.86,2.42
+0720,Schöneberg Süd,10.15,3.46,9.14,0.85
+0750,Mariendorf,10.14,3.45,13.35,
+0810,Neukölln,10.13,2.84,9.13,1.79
+0430,Charlottenburg Zentrum,10.13,3.22,10.0,1.38
+0120,Moabit,10.13,2.95,11.35,3.07
+0950,Treptow-Köpenick 5,10.13,3.42,9.54,3.31
+0310,Buch,10.12,2.98,12.11,3.03
+0360,Nördlicher Prenzlauer Berg,10.12,2.52,10.12,1.4
+0120,Moabit,10.12,2.89,9.12,2.39
+1130,Lichtenberg Nord,10.11,2.95,8.85,1.5
+0360,Nördlicher Prenzlauer Berg,10.11,3.46,8.1,0.85
+0750,Mariendorf,10.1,3.81,12.03,4.82
+0430,Charlottenburg Zentrum,10.1,2.99,11.87,5.54
+0510,Spandau Mitte / Nord,10.1,3.03,10.73,2.65
+0360,Nördlicher Prenzlauer Berg,10.09,3.45,9.42,1.65
+0350,Südliches Weißensee,10.09,2.92,8.49,1.49
+0370,Südlicher Prenzlauer Berg,10.09,2.8,10.17,2.55
+0530,Haselhorst / Siemensstadt,10.09,3.95,13.96,2.89
+0360,Nördlicher Prenzlauer Berg,10.09,3.17,10.25,1.67
+0340,Südliches Pankow,10.08,3.63,10.57,2.62
+0630,Zehlendorf Süd/Lichterfelde West,10.07,3.42,9.3,1.3
+0360,Nördlicher Prenzlauer Berg,10.06,2.91,9.6,1.46
+0610,Steglitz,10.05,2.92,8.82,0.85
+0360,Nördlicher Prenzlauer Berg,10.04,3.05,12.47,2.74
+0360,Nördlicher Prenzlauer Berg,10.04,3.19,10.44,1.19
+0810,Neukölln,10.04,3.33,9.8,2.14
+0370,Südlicher Prenzlauer Berg,10.03,3.24,9.47,2.37
+0740,Tempelhof,10.03,3.71,9.84,2.94
+0710,Schöneberg Nord,10.02,3.24,9.76,1.65
+0250,Friedrichshain Ost,10.01,3.39,10.15,2.67
+0120,Moabit,10.01,2.94,9.72,2.54
+0110,Zentrum,10.01,3.33,10.49,2.32
+0730,Friedenau,10.01,3.58,10.19,2.49
+0810,Neukölln,10.0,3.44,9.43,2.86
+1130,Lichtenberg Nord,10.0,3.24,10.27,2.86
+0610,Steglitz,10.0,3.44,10.26,3.03
+0370,Südlicher Prenzlauer Berg,9.98,3.01,10.24,2.66
+0530,Haselhorst / Siemensstadt,9.98,3.83,14.01,2.56
+0610,Steglitz,9.96,3.29,11.21,2.43
+0360,Nördlicher Prenzlauer Berg,9.96,2.81,10.1,2.18
+0510,Spandau Mitte / Nord,9.96,3.39,10.63,4.66
+0360,Nördlicher Prenzlauer Berg,9.96,3.06,8.65,1.73
+1210,Reinickendorf Ost,9.95,3.2,10.91,5.38
+0710,Schöneberg Nord,9.95,3.08,9.24,1.46
+0220,Kreuzberg Süd,9.94,2.97,9.64,3.05
+0710,Schöneberg Nord,9.94,2.98,9.36,2.07
+0520,Wilhelmstadt / Staaken,9.94,2.99,11.06,6.55
+1220,Tegel,9.94,2.71,11.5,3.24
+0120,Moabit,9.94,3.4,9.41,2.54
+0130,Gesundbrunnen,9.94,3.4,8.44,1.14
+0120,Moabit,9.93,3.42,10.26,4.61
+0220,Kreuzberg Süd,9.93,3.45,10.08,3.0
+1030,Biesdorf,9.92,3.62,10.26,1.93
+1260,Märkisches Viertel,9.92,3.34,8.32,
+0110,Zentrum,9.9,2.98,9.27,1.85
+0620,Lankwitz/Lichterfelde Ost,9.9,3.53,8.05,3.11
+0730,Friedenau,9.89,2.91,9.27,1.44
+0440,Wilmersdorf Süd,9.89,3.02,10.17,2.16
+1020,Hellersdorf,9.87,3.67,9.65,3.87
+0430,Charlottenburg Zentrum,9.86,3.16,10.67,4.87
+0450,Wilmersdorf Zentrum,9.86,3.38,9.37,1.47
+0110,Zentrum,9.85,2.86,10.32,2.74
+0140,Wedding,9.85,3.25,9.31,1.73
+0210,Kreuzberg Nord,9.85,2.85,9.49,2.19
+0370,Südlicher Prenzlauer Berg,9.85,2.92,10.37,1.18
+0350,Südliches Weißensee,9.84,3.03,8.91,2.13
+0810,Neukölln,9.84,3.19,8.43,2.08
+0250,Friedrichshain Ost,9.84,2.86,9.75,2.39
+1140,Lichtenberg Mitte,9.83,2.75,11.38,1.47
+0110,Zentrum,9.83,3.46,9.81,2.56
+0730,Friedenau,9.82,3.75,10.03,1.7
+0250,Friedrichshain Ost,9.82,3.63,9.76,3.11
+0740,Tempelhof,9.82,3.15,9.35,1.86
+0140,Wedding,9.81,3.43,8.1,1.62
+1130,Lichtenberg Nord,9.79,3.67,10.72,3.68
+0120,Moabit,9.79,2.95,9.72,3.39
+0360,Nördlicher Prenzlauer Berg,9.79,3.05,9.71,1.02
+1020,Hellersdorf,9.79,3.41,10.58,6.19
+1010,Marzahn,9.78,3.47,9.88,3.4
+0370,Südlicher Prenzlauer Berg,9.78,2.85,7.46,1.71
+0420,Charlottenburg West,9.78,3.44,10.83,3.24
+0720,Schöneberg Süd,9.77,2.98,9.08,1.0
+0710,Schöneberg Nord,9.76,3.0,9.18,1.39
+0250,Friedrichshain Ost,9.76,2.66,10.45,3.17
+0730,Friedenau,9.76,3.5,10.37,1.07
+0120,Moabit,9.74,3.05,8.64,1.47
+0520,Wilhelmstadt / Staaken,9.74,3.79,7.63,1.55
+0140,Wedding,9.74,2.67,9.8,2.51
+0610,Steglitz,9.74,3.26,9.49,2.26
+0140,Wedding,9.72,3.64,8.33,1.43
+0640,Zehlendorf Nord/Wannsee,9.72,4.04,10.45,4.81
+0510,Spandau Mitte / Nord,9.71,2.96,11.04,3.31
+0610,Steglitz,9.7,2.47,8.01,0.92
+0520,Wilhelmstadt / Staaken,9.69,3.42,9.68,2.57
+1250,Wittenau/Borsigwalde,9.69,3.5,10.31,4.29
+0220,Kreuzberg Süd,9.69,2.59,9.41,1.92
+0840,Buckow Nord/Rudow,9.67,4.62,10.0,2.12
+0130,Gesundbrunnen,9.67,3.39,9.52,2.32
+1130,Lichtenberg Nord,9.66,3.35,10.59,2.02
+0430,Charlottenburg Zentrum,9.66,3.03,10.92,4.2
+0210,Kreuzberg Nord,9.65,2.62,10.02,2.09
+0250,Friedrichshain Ost,9.65,3.07,10.67,2.21
+0840,Buckow Nord/Rudow,9.65,4.15,,
+0430,Charlottenburg Zentrum,9.65,3.52,8.42,2.12
+0810,Neukölln,9.65,3.36,9.03,2.04
+1130,Lichtenberg Nord,9.64,3.08,10.01,1.86
+0810,Neukölln,9.64,3.72,7.94,2.37
+0430,Charlottenburg Zentrum,9.63,3.07,8.68,1.85
+0740,Tempelhof,9.63,3.16,10.12,2.3
+0120,Moabit,9.63,2.85,9.06,1.54
+0120,Moabit,9.62,3.2,9.12,2.36
+0140,Wedding,9.61,3.19,10.24,2.57
+0140,Wedding,9.61,3.39,9.16,1.9
+0810,Neukölln,9.6,3.23,9.16,1.36
+0110,Zentrum,9.6,3.43,9.15,2.65
+0140,Wedding,9.6,3.62,8.98,1.16
+0750,Mariendorf,9.6,3.14,10.99,2.76
+0250,Friedrichshain Ost,9.59,2.79,10.21,2.59
+0430,Charlottenburg Zentrum,9.59,3.38,8.31,1.78
+0520,Wilhelmstadt / Staaken,9.59,3.36,7.75,1.46
+0450,Wilmersdorf Zentrum,9.59,3.5,8.76,2.63
+0450,Wilmersdorf Zentrum,9.58,2.99,9.79,3.69
+0450,Wilmersdorf Zentrum,9.58,3.18,10.25,4.11
+0730,Friedenau,9.58,3.26,9.93,1.16
+0220,Kreuzberg Süd,9.57,3.16,8.78,2.27
+0450,Wilmersdorf Zentrum,9.57,3.31,8.99,2.05
+0610,Steglitz,9.57,3.51,9.85,1.84
+1130,Lichtenberg Nord,9.56,3.52,8.81,2.93
+0810,Neukölln,9.55,3.46,8.36,2.28
+0710,Schöneberg Nord,9.54,2.83,9.46,1.48
+0510,Spandau Mitte / Nord,9.54,3.21,10.41,1.91
+0430,Charlottenburg Zentrum,9.53,3.25,8.88,1.9
+0120,Moabit,9.53,3.24,8.88,1.84
+0750,Mariendorf,9.51,3.31,10.07,3.06
+1220,Tegel,9.51,3.95,9.44,2.71
+0110,Zentrum,9.5,3.27,10.39,0.95
+0250,Friedrichshain Ost,9.5,2.51,9.32,3.21
+0120,Moabit,9.49,3.15,8.96,2.1
+0450,Wilmersdorf Zentrum,9.49,3.54,8.79,2.66
+0430,Charlottenburg Zentrum,9.46,3.39,9.4,2.64
+0940,Treptow-Köpenick 4,9.46,3.44,10.75,1.99
+0120,Moabit,9.44,3.31,7.89,1.87
+0210,Kreuzberg Nord,9.43,3.33,9.36,2.7
+0740,Tempelhof,9.43,3.3,10.01,3.52
+0450,Wilmersdorf Zentrum,9.43,3.04,8.27,1.02
+0720,Schöneberg Süd,9.42,3.0,9.24,2.89
+0110,Zentrum,9.42,3.23,9.48,2.07
+0450,Wilmersdorf Zentrum,9.42,2.86,8.8,2.66
+0430,Charlottenburg Zentrum,9.4,3.0,9.27,1.96
+0350,Südliches Weißensee,9.39,3.4,8.35,1.7
+0450,Wilmersdorf Zentrum,9.39,3.12,9.58,1.91
+0450,Wilmersdorf Zentrum,9.37,3.23,9.18,1.97
+0710,Schöneberg Nord,9.36,2.76,8.99,2.57
+0430,Charlottenburg Zentrum,9.36,2.9,9.21,3.55
+0230,Kreuzberg Ost,9.34,3.46,9.69,3.16
+1130,Lichtenberg Nord,9.33,3.3,10.97,2.4
+0610,Steglitz,9.32,3.34,9.54,2.43
+0110,Zentrum,9.31,3.07,10.1,2.87
+0220,Kreuzberg Süd,9.31,2.98,9.55,1.63
+0240,Friedrichshain West,9.31,2.86,10.38,2.53
+0140,Wedding,9.29,3.32,9.15,1.78
+0140,Wedding,9.29,3.97,9.54,3.6
+0450,Wilmersdorf Zentrum,9.28,3.16,8.96,1.93
+0450,Wilmersdorf Zentrum,9.26,3.21,8.8,1.62
+0140,Wedding,9.25,3.49,8.89,3.98
+0240,Friedrichshain West,9.25,2.79,9.02,2.35
+0110,Zentrum,9.24,3.42,8.92,1.43
+0720,Schöneberg Süd,9.24,3.16,8.26,1.79
+0740,Tempelhof,9.23,3.54,9.53,3.01
+0510,Spandau Mitte / Nord,9.23,3.36,9.57,2.82
+0240,Friedrichshain West,9.23,2.83,10.35,3.1
+1020,Hellersdorf,9.22,3.32,8.04,2.0
+0250,Friedrichshain Ost,9.21,2.92,8.96,3.13
+0110,Zentrum,9.21,3.23,8.87,1.46
+0720,Schöneberg Süd,9.2,2.81,9.01,1.51
+0450,Wilmersdorf Zentrum,9.19,3.3,9.25,2.12
+0240,Friedrichshain West,9.19,2.84,8.58,2.79
+0720,Schöneberg Süd,9.17,2.64,9.07,1.93
+0370,Südlicher Prenzlauer Berg,9.17,3.18,8.87,1.31
+0140,Wedding,9.17,3.08,9.37,4.79
+0450,Wilmersdorf Zentrum,9.16,2.64,9.44,1.29
+0230,Kreuzberg Ost,9.16,2.92,8.7,1.86
+0450,Wilmersdorf Zentrum,9.14,2.68,8.44,2.35
+0450,Wilmersdorf Zentrum,9.14,3.26,9.31,2.29
+0210,Kreuzberg Nord,9.11,3.17,8.47,1.17
+0110,Zentrum,9.09,2.59,8.92,1.27
+0210,Kreuzberg Nord,9.08,3.3,8.04,1.83
+0230,Kreuzberg Ost,9.07,3.84,10.01,3.42
+0240,Friedrichshain West,9.04,3.1,9.49,3.12
+0520,Wilhelmstadt / Staaken,9.01,3.36,7.46,2.25
+0510,Spandau Mitte / Nord,8.98,3.27,10.51,2.49
+0230,Kreuzberg Ost,8.97,3.06,10.45,3.48
+0720,Schöneberg Süd,8.95,2.91,8.74,2.32
+0130,Gesundbrunnen,8.92,3.38,8.26,3.28
+0110,Zentrum,8.91,3.56,8.98,2.07
+0250,Friedrichshain Ost,8.89,3.05,9.6,3.33
+0240,Friedrichshain West,8.86,3.28,8.22,1.86
+0230,Kreuzberg Ost,8.82,3.56,8.0,2.43
+0210,Kreuzberg Nord,8.81,3.27,8.89,5.26
+0120,Moabit,8.81,3.35,9.68,2.52
+0220,Kreuzberg Süd,8.8,3.12,6.77,2.28
+0430,Charlottenburg Zentrum,8.71,3.55,7.67,2.19
+0450,Wilmersdorf Zentrum,8.69,2.8,8.53,2.26
+0110,Zentrum,8.55,3.06,8.35,1.42
+0720,Schöneberg Süd,8.54,3.61,7.49,2.88
+0230,Kreuzberg Ost,8.51,2.6,8.39,1.74
+0450,Wilmersdorf Zentrum,8.43,2.49,9.31,3.75
+0510,Spandau Mitte / Nord,8.32,3.34,9.2,2.65
+0340,Südliches Pankow,8.06,3.14,,

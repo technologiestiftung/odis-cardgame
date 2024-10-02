@@ -1,59 +1,59 @@
-pgr_id,pgr_name,max_age_group
-0370,Südlicher Prenzlauer Berg,"('x_bis_1900', 1021)"
-0220,Kreuzberg Süd,"('x_bis_1900', 1422)"
-0760,Marienfelde / Lichtenrade,"('x1971_1980', 2990)"
-0520,Wilhelmstadt / Staaken,"('x1961_1970', 1601)"
-0330,Nördliches Weißensee,"('x1991_2000', 2973)"
-0740,Tempelhof,"('x1921_1930', 1796)"
-1130,Lichtenberg Nord,"('x1971_1980', 633)"
-1140,Lichtenberg Mitte,"('x1961_1970', 539)"
-1020,Hellersdorf,"('x1981_1990', 2882)"
-0310,Buch,"('x1971_1980', 254)"
-1110,Hohenschönhausen Nord,"('x1981_1990', 1458)"
-1040,Kaulsdorf/Mahlsdorf,"('x1991_2000', 5228)"
-0910,Treptow-Köpenick 1,"('x1921_1930', 980)"
-1220,Tegel,"('x1931_1940', 1247)"
-0750,Mariendorf,"('x1961_1970', 859)"
-0250,Friedrichshain Ost,"('x_bis_1900', 844)"
-0360,Nördlicher Prenzlauer Berg,"('x1901_1910', 1017)"
-0410,Charlottenburg Nord,"('x1951_1960', 349)"
-0620,Lankwitz/Lichterfelde Ost,"('x1961_1970', 1825)"
-0710,Schöneberg Nord,"('x_bis_1900', 504)"
-0810,Neukölln,"('x1901_1910', 1740)"
-0640,Zehlendorf Nord/Wannsee,"('x1931_1940', 2812)"
-0440,Wilmersdorf Süd,"('x1921_1930', 1021)"
-1240,Grüner Norden,"('x1931_1940', 3286)"
-0110,Zentrum,"('x_bis_1900', 1391)"
-0720,Schöneberg Süd,"('x1901_1910', 556)"
-0130,Gesundbrunnen,"('x_bis_1900', 441)"
-0540,Gatow / Kladow,"('x1971_1980', 1177)"
-0320,Nördliches Pankow,"('x1991_2000', 2135)"
-0950,Treptow-Köpenick 5,"('x1921_1930', 1563)"
-0840,Buckow Nord/Rudow,"('x1971_1980', 2626)"
-0120,Moabit,"('x_bis_1900', 885)"
-0830,Gropiusstadt,"('x1961_1970', 690)"
-1150,Lichtenberg Süd,"('x1931_1940', 836)"
-0930,Treptow-Köpenick 3,"('x1991_2000', 3116)"
-0230,Kreuzberg Ost,"('x_bis_1900', 1056)"
-0920,Treptow-Köpenick 2,"('x1931_1940', 1287)"
-0510,Spandau Mitte / Nord,"('x1931_1940', 1671)"
-1250,Wittenau/Borsigwalde,"('x1931_1940', 1570)"
-1030,Biesdorf,"('x1991_2000', 1950)"
-0450,Wilmersdorf Zentrum,"('x1901_1910', 1145)"
-1260,Märkisches Viertel,"('x1961_1970', 623)"
-0210,Kreuzberg Nord,"('x1971_1980', 219)"
-0530,Haselhorst / Siemensstadt,"('x1931_1940', 650)"
-1120,Hohenschönhausen Süd,"('x1991_2000', 1013)"
-0630,Zehlendorf Süd/Lichterfelde West,"('x1961_1970', 1913)"
-0340,Südliches Pankow,"('x1921_1930', 1257)"
-0610,Steglitz,"('x1951_1960', 963)"
-0240,Friedrichshain West,"('x1951_1960', 355)"
-0140,Wedding,"('x1901_1910', 835)"
-0820,Britz/Buckow,"('x1921_1930', 1573)"
-0430,Charlottenburg Zentrum,"('x_bis_1900', 1047)"
-1210,Reinickendorf Ost,"('x1921_1930', 861)"
-0940,Treptow-Köpenick 4,"('x1991_2000', 1459)"
-0350,Südliches Weißensee,"('x1921_1930', 654)"
-0420,Charlottenburg West,"('x1921_1930', 983)"
-0730,Friedenau,"('x1901_1910', 704)"
-1010,Marzahn,"('x1981_1990', 1853)"
+pgr_id,pgr_name,max_age_group,total_buildings,Percent
+1020,Hellersdorf,"('x1981_1990', 2882)",3416,84.39999999999999
+0830,Gropiusstadt,"('x1961_1970', 690)",864,79.9
+0230,Kreuzberg Ost,"('x_bis_1900', 1056)",1875,56.3
+0220,Kreuzberg Süd,"('x_bis_1900', 1422)",2613,54.400000000000006
+1110,Hohenschönhausen Nord,"('x1981_1990', 1458)",3065,47.599999999999994
+0370,Südlicher Prenzlauer Berg,"('x_bis_1900', 1021)",2307,44.3
+1010,Marzahn,"('x1981_1990', 1853)",4278,43.3
+0740,Tempelhof,"('x1921_1930', 1796)",4577,39.2
+0410,Charlottenburg Nord,"('x1951_1960', 349)",989,35.3
+0110,Zentrum,"('x_bis_1900', 1391)",4225,32.9
+0330,Nördliches Weißensee,"('x1991_2000', 2973)",9089,32.7
+1040,Kaulsdorf/Mahlsdorf,"('x1991_2000', 5228)",16055,32.6
+0730,Friedenau,"('x1901_1910', 704)",2210,31.900000000000002
+0120,Moabit,"('x_bis_1900', 885)",2920,30.3
+1260,Märkisches Viertel,"('x1961_1970', 623)",2113,29.5
+0530,Haselhorst / Siemensstadt,"('x1931_1940', 650)",2228,29.2
+0250,Friedrichshain Ost,"('x_bis_1900', 844)",2912,28.999999999999996
+0720,Schöneberg Süd,"('x1901_1910', 556)",1958,28.4
+0710,Schöneberg Nord,"('x_bis_1900', 504)",1774,28.4
+0810,Neukölln,"('x1901_1910', 1740)",6199,28.1
+0930,Treptow-Köpenick 3,"('x1991_2000', 3116)",11368,27.400000000000002
+1030,Biesdorf,"('x1991_2000', 1950)",7159,27.200000000000003
+1220,Tegel,"('x1931_1940', 1247)",4585,27.200000000000003
+0430,Charlottenburg Zentrum,"('x_bis_1900', 1047)",4035,25.900000000000002
+0240,Friedrichshain West,"('x1951_1960', 355)",1374,25.8
+0320,Nördliches Pankow,"('x1991_2000', 2135)",8303,25.7
+1130,Lichtenberg Nord,"('x1971_1980', 633)",2516,25.2
+0450,Wilmersdorf Zentrum,"('x1901_1910', 1145)",4535,25.2
+1120,Hohenschönhausen Süd,"('x1991_2000', 1013)",4120,24.6
+0940,Treptow-Köpenick 4,"('x1991_2000', 1459)",5954,24.5
+0420,Charlottenburg West,"('x1921_1930', 983)",4016,24.5
+0920,Treptow-Köpenick 2,"('x1931_1940', 1287)",5249,24.5
+1210,Reinickendorf Ost,"('x1921_1930', 861)",3618,23.799999999999997
+1150,Lichtenberg Süd,"('x1931_1940', 836)",3612,23.1
+0760,Marienfelde / Lichtenrade,"('x1971_1980', 2990)",12978,23.0
+0840,Buckow Nord/Rudow,"('x1971_1980', 2626)",11742,22.400000000000002
+0360,Nördlicher Prenzlauer Berg,"('x1901_1910', 1017)",4628,22.0
+0140,Wedding,"('x1901_1910', 835)",3873,21.6
+0210,Kreuzberg Nord,"('x1971_1980', 219)",1039,21.099999999999998
+0640,Zehlendorf Nord/Wannsee,"('x1931_1940', 2812)",13666,20.599999999999998
+0440,Wilmersdorf Süd,"('x1921_1930', 1021)",4969,20.5
+0610,Steglitz,"('x1951_1960', 963)",4884,19.7
+0310,Buch,"('x1971_1980', 254)",1321,19.2
+1240,Grüner Norden,"('x1931_1940', 3286)",17307,19.0
+1250,Wittenau/Borsigwalde,"('x1931_1940', 1570)",8503,18.5
+0510,Spandau Mitte / Nord,"('x1931_1940', 1671)",9109,18.3
+0540,Gatow / Kladow,"('x1971_1980', 1177)",6489,18.099999999999998
+0620,Lankwitz/Lichterfelde Ost,"('x1961_1970', 1825)",10185,17.9
+0950,Treptow-Köpenick 5,"('x1921_1930', 1563)",8794,17.8
+1140,Lichtenberg Mitte,"('x1961_1970', 539)",3098,17.4
+0130,Gesundbrunnen,"('x_bis_1900', 441)",2587,17.0
+0350,Südliches Weißensee,"('x1921_1930', 654)",3836,17.0
+0910,Treptow-Köpenick 1,"('x1921_1930', 980)",5860,16.7
+0820,Britz/Buckow,"('x1921_1930', 1573)",9451,16.6
+0340,Südliches Pankow,"('x1921_1930', 1257)",7607,16.5
+0750,Mariendorf,"('x1961_1970', 859)",5438,15.8
+0630,Zehlendorf Süd/Lichterfelde West,"('x1961_1970', 1913)",12270,15.6
+0520,Wilhelmstadt / Staaken,"('x1961_1970', 1601)",10262,15.6
