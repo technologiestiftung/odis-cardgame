@@ -1,4 +1,4 @@
-pgr_id,pgr_name,max_age_group,total_buildings,Percent
+pgr_id,pgr_name,max_ageGroup,totalBuildings,max_ageGroupPercent
 1020,Hellersdorf,"('x1981_1990', 2882)",3416,84.39999999999999
 0830,Gropiusstadt,"('x1961_1970', 690)",864,79.9
 0230,Kreuzberg Ost,"('x_bis_1900', 1056)",1875,56.3
@@ -28,9 +28,9 @@ pgr_id,pgr_name,max_age_group,total_buildings,Percent
 1130,Lichtenberg Nord,"('x1971_1980', 633)",2516,25.2
 0450,Wilmersdorf Zentrum,"('x1901_1910', 1145)",4535,25.2
 1120,Hohenschönhausen Süd,"('x1991_2000', 1013)",4120,24.6
-0940,Treptow-Köpenick 4,"('x1991_2000', 1459)",5954,24.5
 0420,Charlottenburg West,"('x1921_1930', 983)",4016,24.5
 0920,Treptow-Köpenick 2,"('x1931_1940', 1287)",5249,24.5
+0940,Treptow-Köpenick 4,"('x1991_2000', 1459)",5954,24.5
 1210,Reinickendorf Ost,"('x1921_1930', 861)",3618,23.799999999999997
 1150,Lichtenberg Süd,"('x1931_1940', 836)",3612,23.1
 0760,Marienfelde / Lichtenrade,"('x1971_1980', 2990)",12978,23.0

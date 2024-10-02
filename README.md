@@ -64,7 +64,7 @@ tbd...
 ## ToDos
 
 - double check Cannabis_freeZones in QGIS
-- script all results combined
+
 
 
 ## Data

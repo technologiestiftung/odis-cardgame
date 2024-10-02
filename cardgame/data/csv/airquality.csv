@@ -1,4 +1,4 @@
-pgr_id,pgr_name,Mean_no2,Mean_pm25
+pgr_id,pgr_name,mean_no2,mean_pm25
 0830,Gropiusstadt,14.61,11.54
 0370,Südlicher Prenzlauer Berg,18.48,11.45
 0250,Friedrichshain Ost,16.57,11.41

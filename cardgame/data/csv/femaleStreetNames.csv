@@ -1,4 +1,4 @@
-pgr_id,pgr_name,unique_f_streets,unique_m_streets,unique_streets_count,f_percent
+pgr_id,pgr_name,unique_f_streets,unique_m_streets,unique_streets_count,fStreets_percent
 0110,Zentrum,49,166,215,22.8
 0120,Moabit,22,63,85,25.900000000000002
 0630,Zehlendorf Süd/Lichterfelde West,17,133,150,11.3
