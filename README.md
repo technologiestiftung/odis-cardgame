@@ -41,6 +41,15 @@ You can use it on GitHub just by commenting on PRs and issues:
 - [ ] Add your project description
 - [ ] Get fancy shields at https://shields.io
 
+## Data Supertrumpf
+by ODIS – Open Data Informationsstelle Berlin
+
+The _Supertrumpf_ card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
+
+Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
+
+For example, the **number of trees** lets players explore the greenest public spaces in Berlin, the comparison in the **number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **female street names** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
+
 ## Prerequisites
 
 tbd...

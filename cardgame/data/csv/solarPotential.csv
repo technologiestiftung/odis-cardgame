@@ -1,59 +1,59 @@
-pgr_id,pgr_name,total_anual_yield_kwh
-0110,Zentrum,302985574
-0760,Marienfelde / Lichtenrade,279482841
-0510,Spandau Mitte / Nord,233246799
-0520,Wilhelmstadt / Staaken,226738687
-0810,Neukölln,219884036
-0920,Treptow-Köpenick 2,217377622
-0630,Zehlendorf Süd/Lichterfelde West,213559386
-1010,Marzahn,203553759
-0740,Tempelhof,200887325
-0430,Charlottenburg Zentrum,193671127
-0450,Wilmersdorf Zentrum,192859988
-1040,Kaulsdorf/Mahlsdorf,190288332
-0640,Zehlendorf Nord/Wannsee,185739321
-0820,Britz/Buckow,177790235
-0120,Moabit,175618599
-0620,Lankwitz/Lichterfelde Ost,166461497
-0530,Haselhorst / Siemensstadt,165332639
-1250,Wittenau/Borsigwalde,164653828
-1220,Tegel,162612729
-0930,Treptow-Köpenick 3,160839752
-0340,Südliches Pankow,158217869
-1130,Lichtenberg Nord,155324369
-0950,Treptow-Köpenick 5,150893642
-0840,Buckow Nord/Rudow,149227165
-0320,Nördliches Pankow,147955144
-1240,Grüner Norden,146902869
-0360,Nördlicher Prenzlauer Berg,142966508
-0140,Wedding,136258419
-0750,Mariendorf,132641917
-1120,Hohenschönhausen Süd,130496528
-0910,Treptow-Köpenick 1,129205562
-0420,Charlottenburg West,127563371
-1210,Reinickendorf Ost,126371559
-0350,Südliches Weißensee,125249876
-0330,Nördliches Weißensee,122204229
-0440,Wilmersdorf Süd,109506815
-0610,Steglitz,109004448
-0130,Gesundbrunnen,100969489
-1030,Biesdorf,100079566
-0220,Kreuzberg Süd,97948901
-0250,Friedrichshain Ost,97886059
-1140,Lichtenberg Mitte,95627659
-1020,Hellersdorf,94059732
-0940,Treptow-Köpenick 4,80983695
-1150,Lichtenberg Süd,80955038
-1110,Hohenschönhausen Nord,80508983
-0720,Schöneberg Süd,79944253
-1260,Märkisches Viertel,73221945
-0370,Südlicher Prenzlauer Berg,72236795
-0730,Friedenau,71616084
-0540,Gatow / Kladow,70837247
-0240,Friedrichshain West,70615138
-0710,Schöneberg Nord,65161713
-0230,Kreuzberg Ost,62224895
-0210,Kreuzberg Nord,56590113
-0310,Buch,56088609
-0410,Charlottenburg Nord,42450479
-0830,Gropiusstadt,38152880
+pgr_id,pgr_name,total_anual_yield_gwh
+0110,Zentrum,303
+0760,Marienfelde / Lichtenrade,279
+0510,Spandau Mitte / Nord,233
+0520,Wilhelmstadt / Staaken,227
+0810,Neukölln,220
+0920,Treptow-Köpenick 2,217
+0630,Zehlendorf Süd/Lichterfelde West,214
+1010,Marzahn,204
+0740,Tempelhof,201
+0430,Charlottenburg Zentrum,194
+0450,Wilmersdorf Zentrum,193
+1040,Kaulsdorf/Mahlsdorf,190
+0640,Zehlendorf Nord/Wannsee,186
+0820,Britz/Buckow,178
+0120,Moabit,176
+0620,Lankwitz/Lichterfelde Ost,166
+0530,Haselhorst / Siemensstadt,165
+1250,Wittenau/Borsigwalde,165
+1220,Tegel,163
+0930,Treptow-Köpenick 3,161
+0340,Südliches Pankow,158
+1130,Lichtenberg Nord,155
+0950,Treptow-Köpenick 5,151
+0840,Buckow Nord/Rudow,149
+0320,Nördliches Pankow,148
+1240,Grüner Norden,147
+0360,Nördlicher Prenzlauer Berg,143
+0140,Wedding,136
+0750,Mariendorf,133
+1120,Hohenschönhausen Süd,130
+0910,Treptow-Köpenick 1,129
+0420,Charlottenburg West,128
+1210,Reinickendorf Ost,126
+0350,Südliches Weißensee,125
+0330,Nördliches Weißensee,122
+0440,Wilmersdorf Süd,110
+0610,Steglitz,109
+0130,Gesundbrunnen,101
+1030,Biesdorf,100
+0250,Friedrichshain Ost,98
+0220,Kreuzberg Süd,98
+1140,Lichtenberg Mitte,96
+1020,Hellersdorf,94
+0940,Treptow-Köpenick 4,81
+1110,Hohenschönhausen Nord,81
+1150,Lichtenberg Süd,81
+0720,Schöneberg Süd,80
+1260,Märkisches Viertel,73
+0730,Friedenau,72
+0370,Südlicher Prenzlauer Berg,72
+0240,Friedrichshain West,71
+0540,Gatow / Kladow,71
+0710,Schöneberg Nord,65
+0230,Kreuzberg Ost,62
+0210,Kreuzberg Nord,57
+0310,Buch,56
+0410,Charlottenburg Nord,42
+0830,Gropiusstadt,38
