@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Charlottenburg_Nord_strassen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.2970934, 52.5370361 ], [ 13.2971957, 52.5370362 ], [ 13.2979839, 52.5370374 ], [ 13.2987699, 52.5370294 ], [ 13.2988907, 52.5370252 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3022188, 52.5387338 ], [ 13.3023019, 52.5387339 ], [ 13.3023655, 52.5387339 ], [ 13.3035791, 52.538734 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3240289, 52.5423707 ], [ 13.323963, 52.5423291 ], [ 13.3239377, 52.5423132 ], [ 13.3239256, 52.5423057 ], [ 13.3237796, 52.5422149 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3025302, 52.5375993 ], [ 13.3026219, 52.537599 ], [ 13.3031464, 52.5375976 ], [ 13.3033998, 52.5375969 ], [ 13.3035104, 52.5375529 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3237796, 52.5422149 ], [ 13.3228662, 52.5416472 ], [ 13.3227891, 52.5415649 ] ] } }
+]
+}

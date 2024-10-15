@@ -41,7 +41,7 @@ You can use it on GitHub just by commenting on PRs and issues:
 - [ ] Add your project description
 - [ ] Get fancy shields at https://shields.io
 
-## Data Supertrumpf
+## Data Top Trumps
 by ODIS – Open Data Informationsstelle Berlin
 
 The _Supertrumpf_ card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
@@ -52,11 +52,21 @@ For example, the **number of trees** lets players explore the greenest public sp
 
 ## Prerequisites
 
-tbd...
+Ensure that the following prerequisites are met to run the scripts in this repository:
+
+- Python 3.x
+- Jupyter Notebook
+- Required Python libraries: pandas, geopandas, matplotlib, shapely.geometry
 
 ## Installation
 
-tbd...
+Clone the repository to your local system.
+```
+git clone <repository URL>
+cd <cloned repository directory>
+```
+The sources for the CSV- and GEOJSON-files are listed under the **Data** section.
+
 
 ## Usage or Deployment
 

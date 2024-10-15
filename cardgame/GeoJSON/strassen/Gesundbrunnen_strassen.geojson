@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "Gesundbrunnen_strassen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3867944, 52.5330615 ], [ 13.3869592, 52.5331306 ], [ 13.3870818, 52.5331793 ], [ 13.3872514, 52.5332498 ], [ 13.387307, 52.5332717 ], [ 13.3874167, 52.5333167 ], [ 13.3875775, 52.5333827 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3956022, 52.5479124 ], [ 13.3956575, 52.5484648 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3981383, 52.548397 ], [ 13.3981244, 52.548496 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3968121, 52.5479724 ], [ 13.3968497, 52.5483142 ], [ 13.3968541, 52.5483567 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3968541, 52.5483567 ], [ 13.3968589, 52.548459 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3968589, 52.548459 ], [ 13.3968638, 52.5485325 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3981244, 52.548496 ], [ 13.398105, 52.5486022 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.398193, 52.5480511 ], [ 13.3981471, 52.5483684 ], [ 13.3981383, 52.548397 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3984055, 52.5480356 ], [ 13.3983896, 52.5480623 ], [ 13.398193, 52.5480511 ], [ 13.397713, 52.5480234 ], [ 13.3975189, 52.5480124 ], [ 13.3973432, 52.5480032 ], [ 13.3972447, 52.5479981 ], [ 13.3969138, 52.5479784 ], [ 13.3968121, 52.5479724 ], [ 13.3963066, 52.5479473 ], [ 13.3960737, 52.5479358 ], [ 13.3960218, 52.5479332 ], [ 13.3958466, 52.5479245 ], [ 13.3956022, 52.5479124 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.398105, 52.5486022 ], [ 13.3983681, 52.548617 ], [ 13.3993504, 52.5486692 ], [ 13.3994773, 52.5483936 ], [ 13.3994817, 52.5483836 ], [ 13.3996036, 52.5481043 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3956575, 52.5484648 ], [ 13.3968638, 52.5485325 ], [ 13.398105, 52.5486022 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ 13.3874495, 52.5334761 ], [ 13.3874063, 52.5334561 ], [ 13.3871976, 52.5333586 ], [ 13.3868517, 52.5332095 ] ] } }
+]
+}
