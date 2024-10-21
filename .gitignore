@@ -279,3 +279,5 @@ cython_debug/
 /cardgame/data/raw/
 
 /cardgame/data/svg/
+
+/cardgame/scripts/access_token.txt
