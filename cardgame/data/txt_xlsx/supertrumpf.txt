@@ -1,0 +1,59 @@
+Bezirk	Ortsteil	Fläche	Einwohner	Straßen	Solar	Luft	Versiegelung	Imbisse	Min	Sek
+Mitte	Zentrum	15.84	124331	22	303	18.56	65	355	9	34
+Mitte	Moabit	8.22	89877	25	176	18.63	67	200	9	43
+Mitte	Gesundbrunnen	5.68	78592	5	101	16.96	64	150	10	5
+Mitte	Wedding	9.63	102856	2	136	16.68	48	187	9	39
+Friedrichshain-Kreuzberg	Kreuzberg Nord	2.94	41369	12	57	17.69	67	89	9	19
+Friedrichshain-Kreuzberg	Kreuzberg Süd	4.74	64694	5	98	17.45	65	180	9	41
+Friedrichshain-Kreuzberg	Kreuzberg Ost	2.76	45865	18	62	16.2	69	198	8	59
+Friedrichshain-Kreuzberg	Friedrichshain West	4.58	52843	21	71	18.98	58	98	9	9
+Friedrichshain-Kreuzberg	Friedrichshain Ost	5.37	88095	8	98	16.57	63	222	9	47
+Pankow	Buch	22.97	17751	14	56	11.37	11	4	10	59
+Pankow	Nördliches Pankow	26.12	48949	13	148	11.37	25	20	11	59
+Pankow	Nördliches Weißensee	22.21	37544	14	122	12.57	28	21	11	34
+Pankow	Südliches Pankow	12.84	95050	13	158	15.24	47	48	10	42
+Pankow	Südliches Weißensee	7.94	57350	9	125	14.94	51	39	10	18
+Pankow	Nördlicher Prenzlauer Berg	8.04	108165	9	143	17.32	64	132	10	13
+Pankow	Südlicher Prenzlauer Berg	3.03	61031	21	72	18.48	72	120	9	57
+Charlottenburg-Wilmersdorf	Charlottenburg Nord	5.79	19532	7	42	16.5	35	6	11	28
+Charlottenburg-Wilmersdorf	Charlottenburg West	29.44	41101	7	128	12.21	21	32	11	20
+Charlottenburg-Wilmersdorf	Charlottenburg Zentrum	9.29	109830	11	194	17.86	69	179	9	38
+Charlottenburg-Wilmersdorf	Wilmersdorf Süd	11.66	54253	9	110	14.34	39	22	11	22
+Charlottenburg-Wilmersdorf	Wilmersdorf Zentrum	8.49	118420	6	193	18.35	75	200	9	19
+Spandau	Spandau Mitte / Nord	33.57	112355	12	233	11.99	26	80	10	22
+Spandau	Wilhelmstadt / Staaken	23.01	91916	3	227	12.32	36	69	11	11
+Spandau	Haselhorst / Siemensstadt	10.38	33169	17	165	15.13	48	29	10	32
+Spandau	Gatow / Kladow	24.88	20051	11	71	10.11	15	6	11	29
+Steglitz-Zehlendorf	Steglitz	6.78	76193	3	109	16.75	56	48	9	57
+Steglitz-Zehlendorf	Lankwitz/Lichterfelde Ost	14.93	80660	11	166	13.51	42	37	11	6
+Steglitz-Zehlendorf	Zehlendorf Süd/Lichterfelde West	18.34	83901	11	214	13.35	44	57	11	5
+Steglitz-Zehlendorf	Zehlendorf Nord/Wannsee	62.46	69373	4	186	10.88	15	37	11	23
+Tempelhof-Schöneberg	Schöneberg Nord	2.85	50035	13	65	17.02	73	97	9	46
+Tempelhof-Schöneberg	Schöneberg Süd	3.36	52977	15	80	17.52	74	102	9	18
+Tempelhof-Schöneberg	Friedenau	4.6	47038	11	72	17.54	58	57	9	49
+Tempelhof-Schöneberg	Tempelhof	13.66	67417	6	201	17.81	51	77	9	57
+Tempelhof-Schöneberg	Mariendorf	9.37	53616	0	133	14.3	48	58	10	22
+Tempelhof-Schöneberg	Marienfelde / Lichtenrade	19.18	84865	3	279	13.23	45	53	11	46
+Neukölln	Neukölln	11.7	162700	3	220	18.37	61	400	10	26
+Neukölln	Britz/Buckow	17.11	74103	2	178	15.17	41	73	11	23
+Neukölln	Gropiusstadt	2.66	38728	16	38	14.61	48	20	10	48
+Neukölln	Buckow Nord/Rudow	13.44	53788	32	149	13.92	45	52	10	50
+Treptow-Köpenick	Treptow-Köpenick 1	17.14	65660	3	129	15.83	37	50	11	19
+Treptow-Köpenick	Treptow-Köpenick 2	19.19	75237	7	217	14.57	43	65	11	25
+Treptow-Köpenick	Treptow-Köpenick 3	40.67	59447	17	161	11.39	19	30	12	58
+Treptow-Köpenick	Treptow-Köpenick 4	44.42	39371	14	81	10.25	9	23	11	41
+Treptow-Köpenick	Treptow-Köpenick 5	46.22	55720	7	151	10.24	15	39	11	2
+Marzahn-Hellersdorf	Marzahn	19.53	118714	21	204	14.3	42	54	11	6
+Marzahn-Hellersdorf	Hellersdorf	8.12	93074	34	94	13.42	45	38	11	27
+Marzahn-Hellersdorf	Biesdorf	12.4	30989	17	100	13.33	34	13	11	3
+Marzahn-Hellersdorf	Kaulsdorf/Mahlsdorf	21.73	50124	2	190	12.31	38	15	12	30
+Lichtenberg	Hohenschönhausen Nord	16.64	65631	31	81	12.12	21	27	11	35
+Lichtenberg	Hohenschönhausen Süd	9.35	51968	20	130	14.08	53	32	10	43
+Lichtenberg	Lichtenberg Nord	9.54	78911	5	155	16.09	56	41	10	4
+Lichtenberg	Lichtenberg Mitte	7.59	80312	18	96	14.99	48	37	11	9
+Lichtenberg	Lichtenberg Süd	8.98	36309	26	81	12.92	45	4	11	27
+Reinickendorf	Reinickendorf Ost	7.56	56796	2	126	16.48	52	41	10	29
+Reinickendorf	Tegel	18.33	60664	7	163	13.73	36	96	10	49
+Reinickendorf	Grüner Norden	42.74	57337	6	147	11.19	18	29	11	52
+Reinickendorf	Wittenau/Borsigwalde	15.87	48851	3	165	13.11	36	40	10	40
+Reinickendorf	Märkisches Viertel	4.78	50548	0	73	13.96	49	29	11	19

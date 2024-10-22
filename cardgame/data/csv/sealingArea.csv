@@ -16,8 +16,8 @@ pgr_id,pgr_name,total_sealing_area
 1220,Tegel,36
 0520,Wilhelmstadt / Staaken,36
 1250,Wittenau/Borsigwalde,36
-1040,Kaulsdorf/Mahlsdorf,37
 0910,Treptow-Köpenick 1,37
+1040,Kaulsdorf/Mahlsdorf,38
 0440,Wilmersdorf Süd,39
 0820,Britz/Buckow,41
 1010,Marzahn,42
@@ -37,16 +37,16 @@ pgr_id,pgr_name,total_sealing_area
 1260,Märkisches Viertel,49
 0740,Tempelhof,51
 0350,Südliches Weißensee,51
-1120,Hohenschönhausen Süd,52
 1210,Reinickendorf Ost,52
+1120,Hohenschönhausen Süd,53
 0610,Steglitz,56
 1130,Lichtenberg Nord,56
 0240,Friedrichshain West,58
 0730,Friedenau,58
 0810,Neukölln,61
-0360,Nördlicher Prenzlauer Berg,63
 0250,Friedrichshain Ost,63
 0130,Gesundbrunnen,64
+0360,Nördlicher Prenzlauer Berg,64
 0220,Kreuzberg Süd,65
 0110,Zentrum,65
 0210,Kreuzberg Nord,67
