@@ -39,6 +39,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "annameide",
+      "name": "anna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46717848?v=4",
+      "profile": "https://fhp.incom.org/profile/9200/projects",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
