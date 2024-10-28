@@ -4,49 +4,18 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# {repo-template}
-
-## TODO (after you generated the repo)
-
-- [ ] Review the content of the README.md and adjust to your liking
-- [ ] Read the README.md till the end and adjust the content licensing,
-      logos, etc (I know you stopped at tbd...)
-- [ ] Adjust the file [.github/CODEOWNERS](./.github/CODEOWNERS)
-- [ ] Adjust the files under [.github/ISSUE_TEMPLATE](./.github/ISSUE_TEMPLATE)
-- [ ] If you use staging and main branches use this template for [.github/renovate.json](./.github/renovate.json)
-
-```json
-{
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>technologiestiftung/renovate-config"],
-  "baseBranches": ["staging"]
-}
-```
-
-- [ ] Do you want to honor all kinds of contributions? Use [all-contributors](https://allcontributors.org/)
-
-```bash
-npx all-contributors-cli check
-npx all-contributors-cli add ff6347 doc
-```
-
-You can use it on GitHub just by commenting on PRs and issues:
-
-```plain
-@all-contributors please add @ff6347 for infrastructure, tests and code
-```
-
-- [ ] Add your project description
-- [ ] Get fancy shields at https://shields.io
-
-## Data Top Trumps
-by ODIS – Open Data Informationsstelle Berlin
+## ODIS Card Game: Open Data Top Trumps
 
 The _Supertrumpf_ card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
 
 Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
+For example, the **'number of trees'** category lets players explore the greenest public spaces in Berlin, the comparison in the **'number of fast food stall's** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
 
-For example, the **number of trees** lets players explore the greenest public spaces in Berlin, the comparison in the **number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **female street names** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
+The card game is fully based on Open Data. This repository contains all the python scripts for processing the data so that we could use them for the game.
+
+To learn about the game visit our [Website](https://www.odis-berlin.de/projekte/supertrumpf).
+
+![image of the card game](/cardgame/supertrumpf_platzhalter.png)
 
 ## Prerequisites
 
@@ -56,142 +25,39 @@ Ensure that the following prerequisites are met to run the scripts in this repos
 - Jupyter Notebook
 - Required Python libraries: pandas, geopandas, matplotlib, shapely.geometry
 
-## Installation
-
-Clone the repository to your local system.
-```
-git clone <repository URL>
-cd <cloned repository directory>
-```
-The sources for the CSV- and GEOJSON-files are listed under the **Data** section.
-
-
-## Usage or Deployment
-
-tbd...
-
-## Development
-
-tbd...
-
-## Tests
-
-tbd...
-
-## ToDos
-
-- double check Cannabis_freeZones in QGIS
-
-
 
 ## Data
 
-- Population 2024
+This are the sources of all used datasets. We downloaded the data in September 2024 and used it for our analyses.
+
+- Population 2024:
 [Statistik Berlin Brandenburg](https://www.statistik-berlin-brandenburg.de/a-i-5-hj)
 
-- Number of trees
-[GDI](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/98ff39da-d9e7-3764-bbf8-e10ca6eefddf)
-[GDI](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/0f682ebc-2b6c-3502-a233-97cac76d1762)
+- Tree data:
+[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/98ff39da-d9e7-3764-bbf8-e10ca6eefddf) and
+[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/0f682ebc-2b6c-3502-a233-97cac76d1762)
 
-- IHK trade data 2024
-[github](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten/tree/master/data)
+- Trade data 2024:
+[IHK Berlin](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten/tree/master/data)
 
-- Female and male street names 2023
-[github](https://github.com/EqualStreetNames/equalstreetnames-berlin/blob/eb08375e8c8f1828659321a2f07df6d4db998006/data/ways.geojson)
+- Female and male street names 2023:
+[EqualStreetNames Project](https://github.com/EqualStreetNames/equalstreetnames-berlin/blob/eb08375e8c8f1828659321a2f07df6d4db998006/data/ways.geojson)
 
-- Cannabis-free zones, Open Street Map 2024
+- Response time fire brigade 2024:
+[Berliner Feuerwehr](https://www.berliner-feuerwehr.de/service/open-data/#c15579)
+(data downloaded from the map "Eintreffzeiten in den Prognoseräumen")
 
-OSM-Tags:
-leisure=playground amenity=school amenity=kindergarten building=kindergarten community_centre=youth_centre amenity=childcare 'name=*Jugendherberge' social_facility:for=child social_facility:for=juvenile healthcare:speciality=child_psychiatry community_centre:for=child community_centre:for=juvenile community_centre:for=girl community_centre:for=boy club=cannabis leisure=pitch leisure=sports_hall leisure=sports_centre leisure=horse_riding sport=swimming leisure=stadium leisure=water_park leisure=golf_course leisure=indoor_play smoking:cannabis=no railway=platform operator="DB operator="DB operator="DB
+- Buildings age group 2018:
+[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ad4eca4b-1205-371c-b6e3-57f001228995)
 
-```javascript
+- Solar potential 2024:
+[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/dfb86f73-9d41-39f2-a807-c80daf2eaf21)
 
-[out:json];
-area["name"="Berlin"]["admin_level"="4"]["boundary"="administrative"]->.berlin;
-(
-  node(area.berlin)["leisure"="playground"];
-  way(area.berlin)["leisure"="playground"];
-  relation(area.berlin)["leisure"="playground"];
-  
-  node(area.berlin)["amenity"="school"];
-  way(area.berlin)["amenity"="school"];
-  relation(area.berlin)["amenity"="school"];
-  
-  node(area.berlin)["amenity"="kindergarten"];
-  way(area.berlin)["amenity"="kindergarten"];
-  relation(area.berlin)["amenity"="kindergarten"];
-  
-  node(area.berlin)["building"="kindergarten"];
-  way(area.berlin)["building"="kindergarten"];
-  relation(area.berlin)["building"="kindergarten"];
-  
-  node(area.berlin)["community_centre"="youth_centre"];
-  way(area.berlin)["community_centre"="youth_centre"];
-  relation(area.berlin)["community_centre"="youth_centre"];
-  
-  node(area.berlin)["amenity"="childcare"];
-  way(area.berlin)["amenity"="childcare"];
-  relation(area.berlin)["amenity"="childcare"];
-  
-  node(area.berlin)["name"~"Jugendherberge"];
-  way(area.berlin)["name"~"Jugendherberge"];
-  relation(area.berlin)["name"~"Jugendherberge"];
-  
-  node(area.berlin)["social_facility:for"="child"];
-  way(area.berlin)["social_facility:for"="child"];
-  relation(area.berlin)["social_facility:for"="child"];
-  
-  node(area.berlin)["social_facility:for"="juvenile"];
-  way(area.berlin)["social_facility:for"="juvenile"];
-  relation(area.berlin)["social_facility:for"="juvenile"];
-  
-  node(area.berlin)["healthcare:speciality"="child_psychiatry"];
-  way(area.berlin)["healthcare:speciality"="child_psychiatry"];
-  relation(area.berlin)["healthcare:speciality"="child_psychiatry"];
-  
-  node(area.berlin)["community_centre:for"~"child|juvenile|girl|boy"];
-  way(area.berlin)["community_centre:for"~"child|juvenile|girl|boy"];
-  relation(area.berlin)["community_centre:for"~"child|juvenile|girl|boy"];
-  
-  node(area.berlin)["club"="cannabis"];
-  way(area.berlin)["club"="cannabis"];
-  relation(area.berlin)["club"="cannabis"];
-  
-  node(area.berlin)["leisure"~"pitch|sports_hall|sports_centre|horse_riding|stadium|water_park|golf_course|indoor_play"];
-  way(area.berlin)["leisure"~"pitch|sports_hall|sports_centre|horse_riding|stadium|water_park|golf_course|indoor_play"];
-  relation(area.berlin)["leisure"~"pitch|sports_hall|sports_centre|horse_riding|stadium|water_park|golf_course|indoor_play"];
-  
-  node(area.berlin)["sport"="swimming"];
-  way(area.berlin)["sport"="swimming"];
-  relation(area.berlin)["sport"="swimming"];
-  
-  node(area.berlin)["smoking:cannabis"="no"];
-  way(area.berlin)["smoking:cannabis"="no"];
-  relation(area.berlin)["smoking:cannabis"="no"];
-  
-  node(area.berlin)["railway"="platform"]["operator"~"DB"];
-  way(area.berlin)["railway"="platform"]["operator"~"DB"];
-  relation(area.berlin)["railway"="platform"]["operator"~"DB"];
-);
-out body;
->;
-out skel qt;
+- Airquality 2024:
+Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt (link will follow)
 
-```
-
-- Response time fire brigade 2024
-(Berliner Feuerwehr)[https://www.berliner-feuerwehr.de/service/open-data/#c15579]
-Data downloaded from the map "Eintreffzeiten in den Prognoseräumen"
-
-- Buildings age group 2018
-[Fis-Broker](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ad4eca4b-1205-371c-b6e3-57f001228995)
-
-- Solar potential 2024
-[GDI](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/dfb86f73-9d41-39f2-a807-c80daf2eaf21)
-
-- Airquality 2024
-Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt
-
+- Cannabis-free zones: 
+[Open Street Map 2024](cardgame/data/queries/cannabisfree.overpassql)
 
 
 ## Contributing
@@ -208,10 +74,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lisa-Stubert"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt="lisa-stubert"/><br /><sub><b>lisa-stubert</b></sub></a><br /><a href="https://github.com/technologiestiftung/template-default/commits?author=Lisa-Stubert" title="Documentation">📖</a> <a href="#ideas-Lisa-Stubert" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ckeuss"><img src="https://avatars.githubusercontent.com/u/147528104?v=4?s=64" width="64px;" alt="ckeuss"/><br /><sub><b>ckeuss</b></sub></a><br /><a href="https://github.com/technologiestiftung/template-default/commits?author=ckeuss" title="Code">💻</a> <a href="#ideas-ckeuss" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://hanshack.com/"><img src="https://avatars.githubusercontent.com/u/8025164?v=4?s=64" width="64px;" alt="Hans Hack"/><br /><sub><b>Hans Hack</b></sub></a><br /><a href="https://github.com/technologiestiftung/template-default/commits?author=hanshack" title="Code">💻</a> <a href="#ideas-hanshack" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://fhp.incom.org/profile/9200/projects"><img src="https://avatars.githubusercontent.com/u/46717848?v=4?s=64" width="64px;" alt="anna"/><br /><sub><b>anna</b></sub></a><br /><a href="#ideas-annameide" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-annameide" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lisa-Stubert"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt="lisa-stubert"/><br /><sub><b>lisa-stubert</b></sub></a><br /><a href="https://github.com/technologiestiftung/template-default/commits?author=Lisa-Stubert" title="Documentation">📖</a> <a href="#ideas-Lisa-Stubert" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
@@ -227,17 +93,15 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3.0/de/).
 
-Illustrations by {MARIA_MUSTERFRAU}, all rights reserved.
-
 ## Credits
 
 <table>
   <tr>
     <td>
-      Made by <a href="https://citylab-berlin.org/de/start/">
+      Made by <a href="https://odis-berlin.de/">
         <br />
         <br />
-        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-odis-berlin-coloured.svg" />
       </a>
     </td>
     <td>
@@ -257,4 +121,3 @@ Illustrations by {MARIA_MUSTERFRAU}, all rights reserved.
   </tr>
 </table>
 
-## Related Projects
