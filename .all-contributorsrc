@@ -18,6 +18,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ckeuss",
+      "name": "ckeuss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147528104?v=4",
+      "profile": "https://github.com/ckeuss",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
