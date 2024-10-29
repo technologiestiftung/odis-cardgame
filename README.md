@@ -54,7 +54,9 @@ This are the sources of all used datasets. We downloaded the data in September 2
 [GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/dfb86f73-9d41-39f2-a807-c80daf2eaf21)
 
 - Airquality 2024:
-Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt (link will follow)
+INWT Statistics GmbH, on behalf of the Senate Department for Mobility, Transport, Climate Protection and the Environment.
+The airquality project is funded by the German Federal Ministry for Digital and Transport Affairs.
+(link will follow)
 
 - Cannabis-free zones: 
 [Open Street Map 2024](cardgame/data/queries/cannabisfree.overpassql)
