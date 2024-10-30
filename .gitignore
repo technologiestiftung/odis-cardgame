@@ -280,4 +280,4 @@ cython_debug/
 
 /cardgame/data/svg/
 
-/cardgame/scripts/dw_access_token.txt
+/cardgame/maps/dw_access_token.txt
