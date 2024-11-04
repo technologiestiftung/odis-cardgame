@@ -1,0 +1,24 @@
+{
+  "id": "m1",
+  "type": "area",
+  "visible": true,
+  "exactShape": true,
+  "fill": true,
+  "stroke": true,
+  "properties": {
+    "fill": "#15607a",
+    "fill-opacity": 0.2,
+    "stroke": "#15607a",
+    "stroke-width": 1,
+    "stroke-opacity": 1,
+    "stroke-dasharray": "100000",
+    "pattern": "solid",
+    "pattern-line-width": 2,
+    "pattern-line-gap": 2
+  },
+  "visibility": {
+    "mobile": true,
+    "desktop": true
+  },
+  "feature": {}
+}

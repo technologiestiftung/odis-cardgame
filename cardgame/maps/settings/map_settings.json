@@ -1,0 +1,75 @@
+{
+  "data": {
+    "changes": [],
+    "transpose": false,
+    "vertical-header": true,
+    "horizontal-header": true,
+    "json": true
+  },
+  "describe": {
+    "source-name": "",
+    "source-url": "",
+    "intro": "",
+    "byline": "",
+    "aria-description": "",
+    "number-format": "-",
+    "number-divisor": 0,
+    "number-append": "",
+    "number-prepend": "",
+    "hide-title": false
+  },
+  "visualize": {
+    "dark-mode-invert": true,
+    "highlighted-series": [],
+    "highlighted-values": [],
+    "sharing": { "enabled": false },
+    "key": {
+      "items": [],
+      "style": "grid",
+      "title": "",
+      "enabled": false,
+      "position": "bottom",
+      "columnWidth": 200
+    },
+    "view": {
+      "pitch": 0,
+      "height": 80,
+      "bearing": 0
+    },
+    "scale": false,
+    "style": "dw-white",
+    "locked": false,
+    "upload": { "maxSize": 2000000, "maxMarkers": 100 },
+    "compass": false,
+    "miniMap": {
+      "opt": "globe",
+      "size": 165,
+      "label": "",
+      "bounds": [],
+      "enabled": false,
+      "offsetX": 8,
+      "offsetY": 8,
+      "position": "bottom-right"
+    },
+    "mapLabel": false,
+    "scaleUnit": "metric",
+    "visibility": {
+      "green": true,
+      "roads": true,
+      "urban": false,
+      "water": true,
+      "building": true,
+      "glaciers": false,
+      "mountains": false,
+      "building3d": false,
+      "boundary_state": false,
+      "boundary_country": true
+    },
+    "searchPlace": "",
+    "defaultMapSize": 600,
+    "maxMountainsPitch": 20
+  },
+  "axes": {},
+  "annotate": { "notes": "" },
+  "custom": {}
+}
