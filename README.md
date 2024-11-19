@@ -9,7 +9,7 @@
 The _Supertrumpf_ card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
 
 Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
-For example, the **'number of trees'** category lets players explore the greenest public spaces in Berlin, the comparison in the **'number of fast food stall's** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
+For example, the **'airquality'** category lets players explore where they can breathe fresh air in Berlin, the comparison in the **'number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
 
 The card game is fully based on Open Data. This repository contains all the python scripts for processing the data so that we could use them for the game.
 
@@ -23,19 +23,19 @@ Ensure that the following prerequisites are met to run the scripts in this repos
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries: pandas, geopandas, matplotlib, shapely.geometry
+- Required Python libraries: pandas, geopandas, matplotlib, shapely.geometry, datawrapper, os, json, time, copy, math,
+requests.exceptions
 
 
 ## Data
 
-This are the sources of all used datasets. We downloaded the data in September 2024 and used it for our analyses.
+These are the sources of all used datasets. We downloaded the data in September 2024 and used it for our analyses.
+
+- Admin Areas 2021:
+[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/5e05b70b-50d6-4164-b0fd-9cdef4e43559)
 
 - Population 2024:
 [Statistik Berlin Brandenburg](https://www.statistik-berlin-brandenburg.de/a-i-5-hj)
-
-- Tree data:
-[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/98ff39da-d9e7-3764-bbf8-e10ca6eefddf) and
-[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/0f682ebc-2b6c-3502-a233-97cac76d1762)
 
 - Trade data 2024:
 [IHK Berlin](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten/tree/master/data)
@@ -47,9 +47,6 @@ This are the sources of all used datasets. We downloaded the data in September 2
 [Berliner Feuerwehr](https://www.berliner-feuerwehr.de/service/open-data/#c15579)
 (data downloaded from the map "Eintreffzeiten in den Prognoseräumen")
 
-- Buildings age group 2018:
-[GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ad4eca4b-1205-371c-b6e3-57f001228995)
-
 - Solar potential 2024:
 [GDI Berlin](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/dfb86f73-9d41-39f2-a807-c80daf2eaf21)
 
@@ -58,8 +55,8 @@ INWT Statistics GmbH, on behalf of the Senate Department for Mobility, Transport
 The airquality project is funded by the German Federal Ministry for Digital and Transport Affairs.
 (link will follow)
 
-- Cannabis-free zones: 
-[Open Street Map 2024](cardgame/data/queries/cannabisfree.overpassql)
+- Soil Sealing Area 2021:
+[Umweltatlas](https://www.berlin.de/umweltatlas/boden/versiegelung/2021/karten/artikel.1253292.php)
 
 
 ## Contributing
