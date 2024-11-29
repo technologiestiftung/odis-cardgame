@@ -6,14 +6,22 @@
 
 ## ODIS Card Game: Open Data Top Trumps
 
-The _Supertrumpf_ card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
+The **ODIS-Supertrumpf** card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
 
 Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
 For example, the **'airquality'** category lets players explore where they can breathe fresh air in Berlin, the comparison in the **'number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
 
-The card game is fully based on Open Data. This repository contains all the python scripts for processing the data so that we could use them for the game.
+The card game is fully based on Open Data. This repository contains all the python scripts for processing the data so that we could use them for the game. Go to cardgame > scripts to learn about the data processing for the **6 categories** on each card:
+ - female street names
+ - solar potential
+ - airquality NO2
+ - degree of soil sealing
+ - fast food stalls
+ - response time fire brigade
 
-To learn about the game visit our [Website](https://www.odis-berlin.de/projekte/supertrumpf).
+Find the script _createMaps.ipynb_ in cardgame > maps to see how we created the maps for each admin area using the datawrapper API. 
+
+For more information about the game visit our [Website](https://www.odis-berlin.de/projekte/supertrumpf).
 
 ![image of the card game](/cardgame/supertrumpf_platzhalter.png)
 
@@ -24,7 +32,7 @@ Ensure that the following prerequisites are met to run the scripts in this repos
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: pandas, geopandas, matplotlib, shapely.geometry, datawrapper, os, json, time, copy, math,
-requests.exceptions
+requests
 
 
 ## Data
