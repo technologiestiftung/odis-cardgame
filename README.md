@@ -23,7 +23,7 @@ Find the script _createMaps.ipynb_ in cardgame > maps to see how we created the 
 
 For more information about the game visit our [Website](https://www.odis-berlin.de/projekte/supertrumpf).
 
-![image of the card game](/cardgame/supertrumpf_platzhalter.png)
+![image of the card game](/cardgame/ODIS-Supertrumpf-MockUp-02-20241115.png)
 
 ## Prerequisites
 
