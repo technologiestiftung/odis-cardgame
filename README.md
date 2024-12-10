@@ -11,7 +11,7 @@ The **Open Data Supertrumpf** card game transforms the diverse data of our capit
 Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
 For example, the **'airquality'** category lets players explore where they can breathe fresh air in Berlin, the comparison in the **'number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
 
-The card game is fully based on **Open Data**. This repository contains all the python scripts for processing the data so that we could use them for the game. Go to cardgame > scripts to learn about the data processing for the **6 categories**, as well as information on the population and admin areas featured on each card:
+The card game is fully based on **Open Data**. This repository contains all the python scripts for processing the data so that we could use them for the game. Go to [scripts](cardgame/scripts)to learn about the data processing for the **6 categories**, as well as information on the population and admin areas featured on each card:
  - admin areas
  - Population
  - female street names
@@ -21,7 +21,7 @@ The card game is fully based on **Open Data**. This repository contains all the 
  - fast food stalls
  - response time fire brigade
 
-Find the script _createMaps.ipynb_ in cardgame > maps to see how we created the maps for each admin area using the datawrapper API. 
+Find the script _createMaps.ipynb_ in [maps](cardgame/scripts/maps) to see how we created the maps for each admin area using the datawrapper API. 
 
 For more information about the game visit our [Website](https://www.odis-berlin.de/projekte/supertrumpf).
 
