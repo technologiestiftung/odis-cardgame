@@ -6,7 +6,7 @@
 
 ## ODIS Card Game: Open Data Top Trumps
 
-The **ODIS-Supertrumpf** card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
+The **Open Data Supertrumpf** card game transforms the diverse data of our capital Berlin into an exciting competition! In this game, it's not about horsepower or classic vehicle attributes, but rather about the unique characteristics of Berlin's districts and admin areas.
 
 Each card represents one of the 58 admin areas, and open datasets allow for comparisons across different categories.
 For example, the **'airquality'** category lets players explore where they can breathe fresh air in Berlin, the comparison in the **'number of fast food stalls** lets you know where the most döner and currywurst options are likely found, and the category **'female street names'** highlights the presence and recognition of significant women in Berlin, or the lack thereof. 
